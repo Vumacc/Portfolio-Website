@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-size: 125px;
+    color: aliceblue;
+    font-family: 'Ubuntu';
+    text-shadow:0px 0px 2px rgb(230, 230, 230), 0px 0px 20px aliceblue;
+}
+
+.bottom-text {
+        color: aliceblue;
+        font-family: 'Ubuntu';
+        font-size: 20px;
+
+}
+
+a {
+    color: #c9c9c9;
+    text-decoration: none;
+    font-family: 'Ubuntu';
+}
+
+a.hover {
+    color: #3a3a3a;
+    text-decoration: none;
+    font-family: 'Ubuntu';
+}
+
+p {
+    color: aliceblue;
+    font-family: 'Ubuntu';
+    font-size: 20px;
+}
+
+div {
+    width: 700px;
+    height: 200px;
+    margin: auto;
+    text-align: center;
+}
