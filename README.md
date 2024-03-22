@@ -7,6 +7,4 @@ It is still very much still in development as well.
 ### Currently planning on doing
 - The projects page
 - The contacts page
-- Tweaking the nav-bar a bit
-- A couple projects on the homepage
-- Fixing anything that comes up during development
+- A couple projects on the homepage (IN DEVELOPMENT)
