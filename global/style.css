@@ -34,8 +34,8 @@ body {
 }
 
 ::selection {
-    background-color: rgb(92, 92, 92);
-    color: #1d1d1d;
+    background-color: rgb(203, 203, 203);
+    color: #000000;
 }
 
 .cursor-contextmenu {
