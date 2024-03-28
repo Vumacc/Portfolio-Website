@@ -193,6 +193,14 @@ button.nav-hidden {
     color: rgb(221, 226, 232);
 }
 
+.dropdown-content {
+    color: black;
+    width: 200px;
+    display: block;
+    text-decoration: none;
+    position: relative;
+}
+
 div.nav-bar {
     height: 85px;
     width: 100%;
@@ -203,6 +211,8 @@ div.nav-bar {
     text-align: left;
     align-content: top;
     padding-left: 20px;
+    border-color: #13121398;
+    border-style: none none solid none;
 }
 
 div.about-me-section {
@@ -241,4 +251,3 @@ div.shape-divider {
     height: 150px;
     width: 100%;
 }
-
