@@ -88,6 +88,10 @@ body {
     color: #c9c9c9;
 }
 
+.clr- {
+    color: #e7e7e7f7;
+}
+
 .clr-f0f8ff7b {
     color: #f0f8ff7b;
 }
@@ -166,14 +170,14 @@ h1.padding-top-100 {
 }
 
 a.front {
-    color: #c9c9c9;
+    color: #9e9e9e;
     font-family: 'Ubuntu';
     font-size: 20px;
-    transition: color 0.25s ease-in-out;
+    transition: color 0.15s ease-in-out;
 }
 
 a.front:hover {
-    color: #565656;
+    color: #d2d2d2;
     text-decoration: none;
     font-family: 'Ubuntu';
     cursor: pointer;
