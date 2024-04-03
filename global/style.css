@@ -217,7 +217,7 @@ button.nav-button {
 }
 
 button.nav-button:hover {
-    background-color: #a6a2a65d;
+    background-color: #a6a2a639;
 }
 
 button.nav-vumacc {
@@ -234,19 +234,10 @@ button.nav-hidden {
     color: rgb(221, 226, 232);
 }
 
-.dropdown-content {
-    color: black;
-    width: 200px;
-    display: block;
-    text-decoration: none;
-    position: relative;
-}
-
 div.nav-bar {
     height: 85px;
     width: 100%;
-    background-color: #1312139c;
-    box-shadow: 1px 1px 7px rgb(0, 0, 0);
+    background-color: #1b1a1b9c;
     position: fixed;
     backdrop-filter: blur(5px);
     text-align: left;
@@ -368,4 +359,5 @@ div.projects-item-left {
 div.projects-item-right {
     background-color: transparent;
     text-align: center;
+    padding-top: 25px;
 }
